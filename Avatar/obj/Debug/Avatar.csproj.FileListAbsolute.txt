@@ -1,0 +1,6 @@
+c:\users\dimit\documents\visual studio 2017\Projects\OOP ExamPrep 13.06.17\Avatar\bin\Debug\Avatar.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\OOP ExamPrep 13.06.17\Avatar\bin\Debug\Avatar.exe
+c:\users\dimit\documents\visual studio 2017\Projects\OOP ExamPrep 13.06.17\Avatar\bin\Debug\Avatar.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\OOP ExamPrep 13.06.17\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+c:\users\dimit\documents\visual studio 2017\Projects\OOP ExamPrep 13.06.17\Avatar\obj\Debug\Avatar.exe
+c:\users\dimit\documents\visual studio 2017\Projects\OOP ExamPrep 13.06.17\Avatar\obj\Debug\Avatar.pdb
